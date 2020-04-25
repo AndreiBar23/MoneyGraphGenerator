@@ -1,0 +1,18 @@
+How to USE: Script will bypass first line of this file, accepted format is Money Currency Month (3 letter format).
+100,350 lei Jan
+200 lei Jan
+300 lei Feb
+100 lei Feb
+200,200 lei Mar
+65 lei Apr
+55 lei Jun
+35 lei Jul
+41 lei Dec
+150 lei Dec
+150 lei Nov
+15 lei Aug
+
+
+
+
+
